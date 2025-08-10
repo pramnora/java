@@ -7,11 +7,18 @@ Java programming code
 
 # Download
 
-http://www.eclipse.org  
+- http://www.eclipse.org  
 
 -----
 
 # Links
+
+## Downloads  
+
+Jetbrains IntelliJ IDE/Integrated development Enviroment  
+- https://www.jetbrains.com/idea/download/?section=windows    
+
+## Tutorials  
 
 Udemy  
 - https://www.udemy.com/java-programming-basics/learn/v4/overview  
