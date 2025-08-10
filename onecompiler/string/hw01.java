@@ -1,10 +1,4 @@
-/* NOTE: This is the 'default' application source code text which is found at...
-          https://www.onecompiler.com/java
-          ...that you can, immediately, run.
-   -----------------------------------------------------------------------------        
-   CREATED: Sun 10 Aug 2025 21:12 PM GMT
-   UPDATED: Sun 10 Aug 2025 21:12 PM GMT
-*/ 
+// PROGRAM: Hello, world!
 
 import java.util.*;
 
@@ -13,3 +7,6 @@ public class Main {
       System.out.println("Hello, World!");
   }
 }
+
+// This program can be run online inside of your web browser by going to:
+// https://www.onecompiler.com/java
