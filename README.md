@@ -11,11 +11,13 @@ Java programming code
 
 ## Downloads  
 
-Jetbrains IntelliJ IDE/Integrated development Enviroment  
-- https://www.jetbrains.com/idea/download/?section=windows    
+### IDE/Integrated Development Environment  
 
-Eclipse IDE  
+Eclipse 
 - http://www.eclipse.org  
+
+Jetbrains IntelliJ  
+- https://www.jetbrains.com/idea/download/?section=windows    
 
 -----
 
