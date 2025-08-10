@@ -5,23 +5,25 @@ Java programming code
 
 -----
 
-# Download
-
-- http://www.eclipse.org  
+# Links
 
 -----
-
-# Links
 
 ## Downloads  
 
 Jetbrains IntelliJ IDE/Integrated development Enviroment  
 - https://www.jetbrains.com/idea/download/?section=windows    
 
+- http://www.eclipse.org  
+
+-----
+
 ## Tutorials  
 
 Udemy  
 - https://www.udemy.com/java-programming-basics/learn/v4/overview  
+
+-----
 
 ## Write/run Java programs inside of your web browser online  
 
