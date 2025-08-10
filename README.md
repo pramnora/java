@@ -14,6 +14,7 @@ Java programming code
 Jetbrains IntelliJ IDE/Integrated development Enviroment  
 - https://www.jetbrains.com/idea/download/?section=windows    
 
+Eclipse IDE  
 - http://www.eclipse.org  
 
 -----
