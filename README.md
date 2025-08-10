@@ -29,7 +29,7 @@ Udemy
 
 OneCompiler  
 - https://www.onecompiler.com/java  
-(**NOTE**: onecompiler, allows you to create programs/then, instantly, share them online with others...;  
- by providing users with a 'unique' URL address.)         
+(**NOTE**: onecompiler, allows you to create programs/then, instantly, share these online with others...;  
+ by providing users with a 'unique' URL address...for other people to go and visit...; then, they can run/edit that same code.)           
   
   
